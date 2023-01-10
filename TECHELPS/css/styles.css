@@ -1,0 +1,19 @@
+.backg-primary{
+    background-color: #6C4AB6;
+}
+.backg-dprimary{
+    background-color: #8D72E1;
+}
+.backg-lprimary{
+    background-color: #B9E0FF;
+}
+.backg-accent{
+    background-color: #8D9EFF;
+}
+.nav-item:hover{
+    background-color: #8D9EFF;
+    border-radius: 5%;
+}
+.btn:hover{
+    background-color: #ffc107;
+}
